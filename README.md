@@ -1,1 +1,1 @@
-# wails-app-demo
+# wails-react-demo

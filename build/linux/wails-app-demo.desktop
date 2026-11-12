@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=wails-app-demo
+Exec=wails-app-demo
+Icon=wails-app-demo
+Categories=Development;
+Terminal=false
+Keywords=wails
+Version=1.0
+StartupNotify=false
